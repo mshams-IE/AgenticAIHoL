@@ -266,18 +266,6 @@ and then ask following questions:
 
 
 
-## Lab 6 leverage MCP server instead of hol db tool
- 
-- Create a new workflow, the template you saved in lab 5.
-- Replace for the relevant 3 agents the **hol db tool** with the mcp server that is available in your environment.
-- Test the workflow, by entering the previous questions.
-
-
-
-
-
-
-
 
 
 
