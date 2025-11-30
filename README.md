@@ -100,7 +100,7 @@ However we are going to build a complete workflow from scratch (sorry about this
 
 To do so, in the Agentic workflow tab:
 - click on the button **Create**
-- You are then asked to give a workflow name, so enter: **" 'your user name' Intelli Banking"** and then click **Create Workflow** at the right bottom of the screen
+- You are then asked to give a workflow name, makesure to choose a unique name so enter: **"User0XX-Customer360"** replace User0XX with your assigned username and then click **Create Workflow** at the right bottom of the screen
 - Set Conversational: ON
 - Set Manager Agent: ON
 
