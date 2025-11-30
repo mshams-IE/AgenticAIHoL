@@ -44,16 +44,9 @@ By following the lab exercises, you will understand how with cloudera AI you can
 
 #### Login into the CDP tenant
 
-Welcome to the virtual hands on Lab of October 9th. 2025. You all have been assigned a unique user name.
+Welcome to the virtual hands on Lab . You all have been assigned a unique user name. Please ask your lab instructor for your login URL and credentials
 
-Search for your first name and the initial of your last name and memorize the assigned user name **and** assigned project.
-
-<br/>
-<img src="images/teilnehmer.png" width="90%">
-<br/>
-<br/>
-
-When you enter the url in your browser, that was shared in the chat, you get following login page, where you now enter
+When you enter the url in your browser, you get following login page, where you now enter
 your given user name and password
 
 ![cdptenantmarketing](images/cdptenantmarketing.png)
@@ -63,7 +56,7 @@ In case of success you should get to this home page of the CDP tenant:
 
 - Go to the Workshop CDP Tenant
 - Navigate to the CLoudera AI tile from the CDP Menu.
-- Click into the Workbench by clicking the Workbench name **hol-ai-workbench**.
+- Click into the Workbench by clicking the Workbench name **ClouderaAI**.
 - 
 ![workspacelist](images/workbenchlist.png)
 
