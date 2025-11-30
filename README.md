@@ -260,8 +260,8 @@ You can find your deployed workflow by:
 
 and then ask following questions:
 - which are the top 3 spending categories?
-- What are the credit card offers from barclays bank www.barclays.co.uk ?
-- Compare our credit card offers with barclays bank www.barclays.co.uk ?
+- What are the credit card offers from Al Rajhi Bank  ?
+- Compare our credit card offers with Al Rajhi Bank ?
 - Which customers are eligible for these offers and share their details?
 
 
