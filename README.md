@@ -105,7 +105,7 @@ To do so, in the Agentic workflow tab:
 - Set Manager Agent: ON
 
 <br/>
-<img src="images/workflowstart2.png" width="90%">
+<img src="images/workflowstart1.png" width="90%">
  
  <br/>
 
