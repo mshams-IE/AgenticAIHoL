@@ -117,7 +117,7 @@ To do so, in the Agentic workflow tab:
 | ----------- | ----------- |
 | Role | Customer Segmentation and Profiling Specialist |
 | Backstory | Skilled in profiling and segmentation using customer data for personalized banking strategies. |
-| Goal | Identify customer personas based on income, balances, loans, and demographic data from customer_profiles table. |
+| Goal | Identify customer personas based on income, balances, loans, and demographic data from customer_data table. |
 
 
 | Name | Transactions Analyst |
